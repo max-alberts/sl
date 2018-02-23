@@ -29,21 +29,21 @@
 #define D51WHL22 " |/-=|___|=O=====O=====O=====O   |_____/~\\___/        "
 #define D51WHL23 "  \\_/      \\__/  \\__/  \\__/  \\__/      \\_/            "
 
-#define D51WHL31 "__/ =| o |=-O=====O=====O=====O \\ ____Y___________|__ "
+#define D51WHL31 "__/ =| o |=-WHALLAAAAAAAAAAAAAAAA \\ ____Y___________|__ "
 #define D51WHL32 " |/-=|___|=    ||    ||    ||    |_____/~\\___/        "
 #define D51WHL33 "  \\_/      \\__/  \\__/  \\__/  \\__/      \\_/            "
 
-#define D51WHL41 "__/ =| o |=-~O=====O=====O=====O\\ ____Y___________|__ "
+#define D51WHL41 "__/ =| o |=WHALLAAAAAAAAAAAAAAAA\\ ____Y___________|__ "
 #define D51WHL42 " |/-=|___|=    ||    ||    ||    |_____/~\\___/        "
 #define D51WHL43 "  \\_/      \\__/  \\__/  \\__/  \\__/      \\_/            "
 
 #define D51WHL51 "__/ =| o |=-~~\\  /~~\\  /~~\\  /~~\\ ____Y___________|__ "
-#define D51WHL52 " |/-=|___|=   O=====O=====O=====O|_____/~\\___/        "
+#define D51WHL52 " |/-=|___|=   WHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAA       "
 #define D51WHL53 "  \\_/      \\__/  \\__/  \\__/  \\__/      \\_/            "
 
 #define D51WHL61 "__/ =| o |=-~~\\  /~~\\  /~~\\  /~~\\ ____Y___________|__ "
 #define D51WHL62 " |/-=|___|=    ||    ||    ||    |_____/~\\___/        "
-#define D51WHL63 "  \\_/      \\_O=====O=====O=====O/      \\_/            "
+#define D51WHL63 "  \\_/      \\_WHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAA
 
 #define D51DEL   "                                                      "
 
