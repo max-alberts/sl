@@ -2,7 +2,7 @@
  *    sl.c: SL version 5.03
  *        Copyright 1993,1998,2014-2015
  *                  Toyoda Masashi
- *                  (mtoyoda@acm.org)
+ *                  (mtoyodawaaaaaacm.org)
  *        Last Modified: 2014/06/03
  *========================================
  */
@@ -264,9 +264,9 @@ void add_smoke(int y, int x)
             "(  )" , "( )"   , "( )"   , "()"   , "()"  ,
             "O"    , "O"     , "O"     , "O"    , "O"   ,
             " "                                          },
-           {"(@@@)", "(@@@@)", "(@@@@)", "(@@@)", "(@@)",
-            "(@@)" , "(@)"   , "(@)"   , "@@"   , "@@"  ,
-            "@"    , "@"     , "@"     , "@"    , "@"   ,
+           {"whallaaaaa", "whallaaaaaaaaaaaaaaaaaaaa", "whallaaaaaaaaaaaaaaaaaaaa", "whallaaaaa", "aaa",
+            "aaa" , "waaaaa"   , "waaaaa"   , "waaaaawaaaaa"   , "waaaaawaaaaa"  ,
+            "waaaaa"    , "waaaaa"     , "waaaaa"     , "waaaaa"    , "waaaaa"   ,
             " "                                          }};
     static char *Eraser[SMOKEPTNS]
         =  {"     ", "      ", "      ", "     ", "    ",
