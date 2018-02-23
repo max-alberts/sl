@@ -43,7 +43,7 @@
 
 #define D51WHL61 "__/ =| o |=-~~\\  /~~\\  /~~\\  /~~\\ ____Y___________|__ "
 #define D51WHL62 " |/-=|___|=    ||    ||    ||    |_____/~\\___/        "
-#define D51WHL63 "  \\_/      \\_WHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAA
+#define D51WHL63 "  \\_/      \\_WHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAAWHALLAAAAAAAAAAAAAAAA"
 
 #define D51DEL   "                                                      "
 
